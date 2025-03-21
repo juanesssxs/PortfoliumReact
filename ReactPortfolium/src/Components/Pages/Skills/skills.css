@@ -1,0 +1,20 @@
+/* src/components/Pages/Skills/skills.css */
+.skills {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .skills h2 {
+    color: #333;
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills ul li {
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+  

@@ -1,0 +1,15 @@
+/* src/components/Pages/Profile/profile.css */
+.profile {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .profile h2 {
+    color: #333;
+  }
+  
+  .profile p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  

@@ -1,0 +1,27 @@
+/* src/components/Pages/Projects/projects.css */
+.projects {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .projects h2 {
+    color: #333;
+  }
+  
+  .projectList {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .projectItem {
+    width: 30%;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .projectItem h3 {
+    margin-bottom: 10px;
+  }
+  

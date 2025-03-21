@@ -1,0 +1,26 @@
+/* src/components/Layout/Header/header.css */
+.header {
+  width: 20%;;
+  background-color: #333;
+  color: white;
+  
+}
+header h1{
+  background-color:blue
+  
+}
+
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+header nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+header nav ul li a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
